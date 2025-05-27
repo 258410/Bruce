@@ -30,4 +30,6 @@
 #include "../lilygo-t-display-s3-pro/pins_arduino.h"
 #elif TTGO
 #include "../lilygo-t-display-ttgo/pins_arduino.h"
+#elif LILKA
+#include "../lilka/pins_arduino.h"
 #endif
